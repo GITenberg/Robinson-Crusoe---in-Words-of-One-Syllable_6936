@@ -1,0 +1,40 @@
+_repo: Robinson-Crusoe---in-Words-of-One-Syllable_6936
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Defo, Daniel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+  - agent_name: Aikin, Lucy
+    alias: Godolphin, Mary
+    birthdate: 1781
+    deathdate: 1864
+    gutenberg_agent_id: '2157'
+    url: http://www.gutenberg.org/2009/agents/2157
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Aikin
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Robinson Crusoe — in Words of One Syllable
+url: http://www.gutenberg.org/ebooks/6936
